@@ -1,0 +1,11 @@
+{
+  "todo": [
+    {
+      "name": "john",
+      "age": "32",
+      "education": "ME",
+      "email": "john@gmail.com",
+      "id": 1
+    }
+  ]
+}

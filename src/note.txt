@@ -1,0 +1,5 @@
+npm i vite./ same directory project install
+npm i vite project name select react option 
+npm i axios for api use
+npm i json-server for fake api 
+npm i react-router-dom for routing

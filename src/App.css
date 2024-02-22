@@ -1,0 +1,29 @@
+
+
+.react-paginate {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.react-paginate > li {
+  display: inline-block;
+  margin: 0 2px;
+  cursor: pointer;
+}
+
+.react-paginate > li > a {
+  color: #007bff;
+  text-decoration: none;
+  padding: 8px 16px;
+}
+
+.react-paginate > li > a:hover {
+  background-color: #f0f0f0;
+}
+
+.react-paginate > .selected > a {
+  background-color: #007bff;
+  color: white;
+}
